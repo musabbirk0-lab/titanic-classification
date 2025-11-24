@@ -77,8 +77,6 @@ streamlit run streamlit_titanic.py
 * [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 * [Streamlit Documentation](https://docs.streamlit.io/)
 
-```
 
----
 
 
